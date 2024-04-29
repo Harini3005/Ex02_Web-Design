@@ -52,6 +52,7 @@
     </html>
     ```
 ## OUTPUT
+![10](https://github.com/Harini3005/Ex02_Web-Design/assets/167395409/f7f3cc4b-1059-40c4-8313-f801fcab7621)
 
 
 
