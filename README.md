@@ -3,7 +3,7 @@
   To create list of Departments in an Institution.
 
 ## ALGORITHM
-### STEP-1
+### STEP-1 
   Open notepad and type the HTML code.
 
 ### STEP-2
