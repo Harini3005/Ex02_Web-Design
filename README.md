@@ -52,11 +52,12 @@
     </html>
     ```
 ## OUTPUT
-![10](https://github.com/Harini3005/Ex02_Web-Design/assets/167395409/f7f3cc4b-1059-40c4-8313-f801fcab7621)
 
 
 
 
+
+![10](https://github.com/Harini3005/Ex02_Web-Design/assets/167395409/31a5b9bb-1e20-4c09-bf23-ef6bd1166ca8)
 
 ## RESULT
   List of Departments in an Institution is created successfully.
