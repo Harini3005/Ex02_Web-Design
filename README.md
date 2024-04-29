@@ -52,7 +52,9 @@
     </html>
     ```
 ## OUTPUT
-![alt text](9-1.png)
+
+
+![9](https://github.com/Harini3005/Ex02_Web-Design/assets/167395409/9d9b916b-c1c5-4c52-bcc3-5fc89160a730)
 
 
 
